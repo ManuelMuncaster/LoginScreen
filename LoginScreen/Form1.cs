@@ -14,7 +14,7 @@ namespace LoginScreen
     {
         string name;
         int password; //holds the users password
-        //
+        //f
         
 
         public Form1()
